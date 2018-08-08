@@ -1,7 +1,0 @@
-com\jpmorgan\reports\DailyTradeReportingEngine\model\Instruction.class
-com\jpmorgan\reports\DailyTradeReportingEngine\manager\ReportManager.class
-com\jpmorgan\reports\DailyTradeReportingEngine\manager\DataProcessingManager.class
-com\jpmorgan\reports\DailyTradeReportingEngine\util\TestData.class
-com\jpmorgan\reports\DailyTradeReportingEngine\util\Constants.class
-com\jpmorgan\reports\DailyTradeReportingEngine\manager\InstructionProcessingManager.class
-com\jpmorgan\reports\DailyTradeReportingEngine\App.class
